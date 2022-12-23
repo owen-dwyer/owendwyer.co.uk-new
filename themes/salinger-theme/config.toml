@@ -3,3 +3,28 @@
     extended = false
     max = ''
     min = '0.87.0'
+    
+[[params.social]]
+name = "github"
+url = "https://github.com/owen-dwyer"
+icon = "fa fa-github"
+after = ""
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/owenpdwyer"
+icon = "fa fa-twitter"
+after = ""
+
+[[params.social]]
+name = "email"
+icon = "fa fa-envelope"
+url = "mailto:owen.dwyer@cs.ox.ac.uk"
+after = ""
+
+
+[[params.social]]
+name = "linkedin"
+icon = "fa fa-linkedin"
+url = "linked.in/in/owen-dwyer"
+after = ""

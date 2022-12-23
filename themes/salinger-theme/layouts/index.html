@@ -16,12 +16,13 @@
    
 
  <!-- SOCIAL --> 
+ <br/>
     {{- if isset .Site.Params "social" }}<p class="social">
 {{ range $index, $elem := .Site.Params.social}}
   {{with $elem.before -}}{{.}}{{end -}}
 <a class="icon" target="_blank" rel="noopener" href="{{ $elem.url }}" aria-label="{{ $elem.name }}">
     <i class="{{ $elem.icon }}" aria-hidden="true"></i>
-  </a>
+  </a> &nbsp;&nbsp;
   {{- with $elem.after}}{{.}}{{end}}
 
 {{ end }}
