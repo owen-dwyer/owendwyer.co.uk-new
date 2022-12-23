@@ -12,7 +12,7 @@
       Published on {{ time.Format $myFormat .Date}}</span>
       {{- with .Params.Categories}}
       {{$n := len .}}
-      <span class="section"> as 
+      <span class="section"> as a 
         {{range $ind, $val := .}}
           <a href="/categories/{{ $val | urlize}}"><strong>{{ $val }}</strong></a></span>
           {{- if lt $ind (sub $n 1) -}},{{- else -}}.{{end}}
