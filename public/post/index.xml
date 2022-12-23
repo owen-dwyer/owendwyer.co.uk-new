@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2019 21:13:14 -0500</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Profiling IoT-based Botnet Traffic using DNS</title>
+      <link>http://example.org/post/2019-12-botnets/</link>
+      <pubDate>Mon, 09 Dec 2019 21:13:14 -0500</pubDate>
+      
+      <guid>http://example.org/post/2019-12-botnets/</guid>
+      <description>👥 Owen P. Dwyer, Angelos K. Marnerides, Vasileios Giotsas, Troy Mursch
+📕 GLOBECOM 2019
+📄 Full paper
+Internet-wide security and resilience have traditionally been subject to large-scale DDoS attacks initiated by various types of botnets. Since the Mirai outbreak in 2016 myriads of Mirai-alike IoT-based botnets have emerged. Such botnets rely on Mirai’s base malware code and they infiltrate vulnerable IoT devices on an Internet-wide scale such as to instrument them to perform large-scale attacks such as DDoS.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
 theme: "salinger-theme"
-baseURL: http://example.org/
+baseURL: http://localhost:4321
 languageCode: en-us
-title: My New Hugo Site
+title: Owen Dwyer
