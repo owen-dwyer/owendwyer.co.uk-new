@@ -1,4 +1,4 @@
-I'm a PhD student based in the Department of Computer Science and co-supervised by Emanuel Sallinger and Jim Davies. 
+I'm a PhD student based at the [Department of Computer Science, University of Oxford](https://cs.ox.ac.uk) and co-supervised by [Emanuel Sallinger](https://www.cs.ox.ac.uk/people/emanuel.sallinger/) and [Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies). 
 
 My research focuses on developing new computational methods, based on technologies including knowledge graphs and process mining, to build models of patients' entire journeys through the healthcare system. The aim is to develop more informative and interpretable models of patient pathways and use these to discover patient subgroups, identify optimal treatments, and investigate how “best practice” treatment guidelines compare to real practice and outcomes, with a particular interest in colorectal cancers.
 

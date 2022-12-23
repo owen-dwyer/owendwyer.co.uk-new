@@ -94,6 +94,7 @@ a {
   //cursor: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='40' height='30' viewport='0 0 100 100' style='fill:black;font-size:30px;'><text y='100%'>👆</text></svg>") 16 0, auto;
 
   @include transition(color 500ms ease-out);
+  
 }
 
 a:hover {
@@ -409,4 +410,24 @@ Emoji and Icons
   font-size: 125%;
   vertical-align: -5%;
   border-radius: 0px;
+}
+
+
+
+
+h1, h2, h3 {
+  color: $highlight-color;
+}
+.section-title {
+  color: $highlight-color;
+
+}
+
+.content p a {
+  border-bottom:1px dotted $primary-color;
+  text-decoration: none;
+}
+.social a {
+  border-bottom: none !important;
+  text-decoration: none;
 }

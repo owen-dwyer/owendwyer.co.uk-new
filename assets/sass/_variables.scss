@@ -1,22 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;700&family=Indie+Flower&family=Montserrat:ital,wght@0,100;0,400;0,700;1,100;1,400;1,800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,800;1,400;1,500&display=swap');
 //fonts
-$primary-font: "Libre Baskerville", serif;
-$secondary-font: "Montserrat", sans-serif;
-$quote-font: "Amatic SC", cursive;
+$primary-font: "EB Garamond", serif;
+$secondary-font: "EB Garamond", serif;
+$quote-font: "EB Garamond", serif;
 $monospace-font: "Fira Mono", monospace;
 
 //colors light
 
 $theme: light;
 $primary-color: black;
-$link-color: #01b5e2;
-$backgound-color: #ffffff;
+$link-color: #CD7F32;
+$backgound-color: #FFFFFB;
 $backgound-secondary-color: #e3e3e3;
-
 $secondary-color: #000000;
 $selected:  rgba(255, 250, 175, 0.5);
+$highlight-color: #264B56;
 
 /*
 $theme: dark;
