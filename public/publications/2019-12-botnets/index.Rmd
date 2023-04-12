@@ -6,11 +6,13 @@ categories: ["conference paper"]
 tags: []
 ---
 
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
 
 👥 Owen P. Dwyer, Angelos K. Marnerides, Vasileios Giotsas, Troy Mursch
 
-📕 IEEE GLOBECOM 2019
+📕 GLOBECOM 2019
 
 📄 [Full paper](http://www.research.lancs.ac.uk/portal/en/publications/profiling-iotbased-botnet-traffic-using-dns%28b0098859-7762-473f-8f76-e8fe7ab27ac8%29.html)  
 

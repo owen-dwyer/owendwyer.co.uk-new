@@ -2,21 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://www.owendwyer.co.uk/</loc>
+    <lastmod>2019-12-09T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://www.owendwyer.co.uk/categories/</loc>
     <lastmod>2019-12-09T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/conference-paper/</loc>
+    <loc>https://www.owendwyer.co.uk/categories/conference-paper/</loc>
     <lastmod>2019-12-09T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://www.owendwyer.co.uk/publications/2019-12-botnets/</loc>
     <lastmod>2019-12-09T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://www.owendwyer.co.uk/publications/2022-10-icpm/</loc>
     <lastmod>2019-12-09T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/2019-12-botnets/</loc>
+    <loc>https://www.owendwyer.co.uk/publications/</loc>
     <lastmod>2019-12-09T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://www.owendwyer.co.uk/tags/</loc>
   </url>
 </urlset>
