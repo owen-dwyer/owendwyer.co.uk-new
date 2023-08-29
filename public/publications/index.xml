@@ -6,7 +6,27 @@
     <description>Recent content in Publications on Owen Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 21:13:14 -0500</lastBuildDate><atom:link href="https://www.owendwyer.co.uk/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Oct 2022 21:13:14 -0500</lastBuildDate><atom:link href="https://www.owendwyer.co.uk/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Process-Oriented Knowledge Graphs: Incorporating Knowledge Graph Methods into Patient Pathway Models</title>
+      <link>https://www.owendwyer.co.uk/publications/2022-10-icpm/</link>
+      <pubDate>Mon, 24 Oct 2022 21:13:14 -0500</pubDate>
+      
+      <guid>https://www.owendwyer.co.uk/publications/2022-10-icpm/</guid>
+      <description>👥 Owen P. Dwyer
+📕 5th International Workshop on Process-Oriented Data Science for Healthcare @ ICPM 2022</description>
+    </item>
+    
+    <item>
+      <title>Process-Oriented Knowledge Graphs: Incorporating Knowledge Graph Methods into Patient Pathway Models</title>
+      <link>https://www.owendwyer.co.uk/publications/2023-09-ruleml/</link>
+      <pubDate>Mon, 24 Oct 2022 21:13:14 -0500</pubDate>
+      
+      <guid>https://www.owendwyer.co.uk/publications/2023-09-ruleml/</guid>
+      <description>👥 Owen P. Dwyer
+📕 5th International Workshop on Process-Oriented Data Science for Healthcare @ ICPM 2022</description>
+    </item>
+    
     <item>
       <title>Profiling IoT-based Botnet Traffic using DNS</title>
       <link>https://www.owendwyer.co.uk/publications/2019-12-botnets/</link>
@@ -14,19 +34,7 @@
       
       <guid>https://www.owendwyer.co.uk/publications/2019-12-botnets/</guid>
       <description>👥 Owen P. Dwyer, Angelos K. Marnerides, Vasileios Giotsas, Troy Mursch
-📕 GLOBECOM 2019
-📄 Full paper
-Internet-wide security and resilience have traditionally been subject to large-scale DDoS attacks initiated by various types of botnets. Since the Mirai outbreak in 2016 myriads of Mirai-alike IoT-based botnets have emerged. Such botnets rely on Mirai’s base malware code and they infiltrate vulnerable IoT devices on an Internet-wide scale such as to instrument them to perform large-scale attacks such as DDoS.</description>
-    </item>
-    
-    <item>
-      <title>Profiling IoT-based Botnet Traffic using DNS</title>
-      <link>https://www.owendwyer.co.uk/publications/2022-10-icpm/</link>
-      <pubDate>Mon, 09 Dec 2019 21:13:14 -0500</pubDate>
-      
-      <guid>https://www.owendwyer.co.uk/publications/2022-10-icpm/</guid>
-      <description>👥 Owen P. Dwyer, Angelos K. Marnerides, Vasileios Giotsas, Troy Mursch
-📕 GLOBECOM 2019
+📕 IEEE GLOBECOM 2019
 📄 Full paper
 Internet-wide security and resilience have traditionally been subject to large-scale DDoS attacks initiated by various types of botnets. Since the Mirai outbreak in 2016 myriads of Mirai-alike IoT-based botnets have emerged. Such botnets rely on Mirai’s base malware code and they infiltrate vulnerable IoT devices on an Internet-wide scale such as to instrument them to perform large-scale attacks such as DDoS.</description>
     </item>
