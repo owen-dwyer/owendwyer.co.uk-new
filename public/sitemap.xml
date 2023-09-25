@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.owendwyer.co.uk/</loc>
-    <lastmod>2022-10-24T21:13:14-05:00</lastmod>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>https://www.owendwyer.co.uk/categories/</loc>
-    <lastmod>2022-10-24T21:13:14-05:00</lastmod>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.owendwyer.co.uk/categories/conference-paper/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.owendwyer.co.uk/publications/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.owendwyer.co.uk/publications/2023-09-ruleml/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.owendwyer.co.uk/categories/poster/</loc>
     <lastmod>2022-10-24T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://www.owendwyer.co.uk/publications/2022-10-icpm/</loc>
     <lastmod>2022-10-24T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://www.owendwyer.co.uk/publications/2023-09-ruleml/</loc>
-    <lastmod>2022-10-24T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://www.owendwyer.co.uk/publications/</loc>
-    <lastmod>2022-10-24T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://www.owendwyer.co.uk/categories/conference-paper/</loc>
-    <lastmod>2019-12-09T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://www.owendwyer.co.uk/publications/2019-12-botnets/</loc>
     <lastmod>2019-12-09T21:13:14-05:00</lastmod>

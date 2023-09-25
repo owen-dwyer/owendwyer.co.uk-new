@@ -6,7 +6,18 @@
     <description>Recent content in conference paper on Owen Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 21:13:14 -0500</lastBuildDate><atom:link href="https://www.owendwyer.co.uk/categories/conference-paper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.owendwyer.co.uk/categories/conference-paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reasoning over Health Records with Vadalog: a Rule-based Approach to Patient Pathways</title>
+      <link>https://www.owendwyer.co.uk/publications/2023-09-ruleml/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.owendwyer.co.uk/publications/2023-09-ruleml/</guid>
+      <description>👥 Owen P. Dwyer, Teodoro Baldazzi, Jim Davies, Emanuel Sallinger and Adriano Vlad
+📕 17th International Rule Challenge @ RuleML+RR 2023
+In recent years, the scale of biomedical and healthcare data has grown exponentially, leading to companies building large enterprise knowledge graphs as well as scalable and intelligent processing systems to exploit them. In this high-stakes domain, the transparency of data-driven processes is paramount to ensure high levels of trustworthiness and accountability for patient safety.</description>
+    </item>
+    
     <item>
       <title>Profiling IoT-based Botnet Traffic using DNS</title>
       <link>https://www.owendwyer.co.uk/publications/2019-12-botnets/</link>
