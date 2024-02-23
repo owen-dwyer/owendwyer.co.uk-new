@@ -6,28 +6,44 @@
     <description>Recent content in Publications on Owen Dwyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.owendwyer.co.uk/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.owendwyer.co.uk/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investigating an Ontology-Informed Approach to Event Log Generation in Healthcare</title>
+      <link>https://www.owendwyer.co.uk/publications/2023-10-icpm/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.owendwyer.co.uk/publications/2023-10-icpm/</guid>
+      <description>👥 Owen P. Dwyer, Lara Chammas, Emanuel Sallinger, Jim Davies
+📕 6th International Workshop on Process-Oriented Data Science for Healthcare @ ICPM 2023
+📄 Full paper - available soon
+🏅 Best Student Paper
+Process mining methods have the potential to reveal useful patterns in hospital data and provide insights into patterns of treatment, but healthcare has proven an exceptionally challenging domain due to the significant heterogeneity of possible events and the diversity of individual patients.</description>
+    </item>
+    
     <item>
       <title>Reasoning over Health Records with Vadalog: a Rule-based Approach to Patient Pathways</title>
       <link>https://www.owendwyer.co.uk/publications/2023-09-ruleml/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Sep 2023 21:13:14 -0500</pubDate>
       
       <guid>https://www.owendwyer.co.uk/publications/2023-09-ruleml/</guid>
       <description>👥 Owen P. Dwyer, Teodoro Baldazzi, Jim Davies, Emanuel Sallinger and Adriano Vlad
-📕 17th International Rule Challenge @ RuleML+RR 2023
+📕 7th International Rule Challenge @ RuleML+RR 2023
 📄 Full paper
 🏅 Best Rule Challenge Paper
 In recent years, the scale of biomedical and healthcare data has grown exponentially, leading to companies building large enterprise knowledge graphs as well as scalable and intelligent processing systems to exploit them. In this high-stakes domain, the transparency of data-driven processes is paramount to ensure high levels of trustworthiness and accountability for patient safety.</description>
     </item>
     
     <item>
-      <title>Process-Oriented Knowledge Graphs: Incorporating Knowledge Graph Methods into Patient Pathway Models</title>
-      <link>https://www.owendwyer.co.uk/publications/2022-10-icpm/</link>
-      <pubDate>Mon, 24 Oct 2022 21:13:14 -0500</pubDate>
+      <title>Reasoning over Health Records with Vadalog: a Rule-based Approach to Patient Pathways</title>
+      <link>https://www.owendwyer.co.uk/publications/2024-01-hicss/</link>
+      <pubDate>Tue, 19 Sep 2023 21:13:14 -0500</pubDate>
       
-      <guid>https://www.owendwyer.co.uk/publications/2022-10-icpm/</guid>
-      <description>👥 Owen P. Dwyer
-📕 5th International Workshop on Process-Oriented Data Science for Healthcare @ ICPM 2022</description>
+      <guid>https://www.owendwyer.co.uk/publications/2024-01-hicss/</guid>
+      <description>👥 Owen P. Dwyer, Teodoro Baldazzi, Jim Davies, Emanuel Sallinger and Adriano Vlad
+📕 7th International Rule Challenge @ RuleML+RR 2023
+📄 Full paper
+🏅 Best Rule Challenge Paper
+In recent years, the scale of biomedical and healthcare data has grown exponentially, leading to companies building large enterprise knowledge graphs as well as scalable and intelligent processing systems to exploit them. In this high-stakes domain, the transparency of data-driven processes is paramount to ensure high levels of trustworthiness and accountability for patient safety.</description>
     </item>
     
     <item>
@@ -37,7 +53,7 @@ In recent years, the scale of biomedical and healthcare data has grown exponenti
       
       <guid>https://www.owendwyer.co.uk/publications/2019-12-botnets/</guid>
       <description>👥 Owen P. Dwyer, Angelos K. Marnerides, Vasileios Giotsas, Troy Mursch
-📕 IEEE GLOBECOM 2019
+📕 GLOBECOM 2019
 📄 Full paper
 Internet-wide security and resilience have traditionally been subject to large-scale DDoS attacks initiated by various types of botnets. Since the Mirai outbreak in 2016 myriads of Mirai-alike IoT-based botnets have emerged. Such botnets rely on Mirai’s base malware code and they infiltrate vulnerable IoT devices on an Internet-wide scale such as to instrument them to perform large-scale attacks such as DDoS.</description>
     </item>
