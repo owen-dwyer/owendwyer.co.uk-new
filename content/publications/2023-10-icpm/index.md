@@ -11,7 +11,7 @@ tags: []
 
 📕 6th International Workshop on Process-Oriented Data Science for Healthcare @ ICPM 2023
 
-📄 [Full paper - available soon](https://link.springer.com/book/9783031561061)
+📄 [Full paper](https://link.springer.com/chapter/10.1007/978-3-031-56107-8_18)
 
 🏅 Best Student Paper
 
