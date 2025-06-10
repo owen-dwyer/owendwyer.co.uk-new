@@ -10,7 +10,7 @@
     {{ printf `<link rel="shortcut icon" href="%s">` ("favicon.ico" | absURL) | safeHTML }}
     
     {{ $sass := resources.Get "sass/main.scss" }}
-    {{ $css := $sass | resources.ToCSS | minify }}
+    {{ $css := $sass | css.Sass | minify }}
     {{ printf `<link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
 
     {{with .Site.Params.fontawesomekitcode}}

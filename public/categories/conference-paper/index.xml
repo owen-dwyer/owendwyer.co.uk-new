@@ -1,62 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>conference paper on Owen Dwyer</title>
-    <link>https://www.owendwyer.co.uk/categories/conference-paper/</link>
-    <description>Recent content in conference paper on Owen Dwyer</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Conference Paper on Owen Dwyer</title>
+    <link>http://localhost:1313/categories/conference-paper/</link>
+    <description>Recent content in Conference Paper on Owen Dwyer</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.owendwyer.co.uk/categories/conference-paper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/conference-paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Care records and healthcare processes: adding context to clinical codes</title>
+      <link>http://localhost:1313/publications/2024-01-hicss/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2024-01-hicss/</guid>
+      <description>&lt;p&gt;👥 Lara Chammas, Owen P Dwyer, Emanuel Sallinger, Jim Davies, Eva JA Morris&lt;/p&gt;&#xA;&lt;p&gt;📕 57th Hawaii International Conference on System Sciences&lt;/p&gt;&#xA;&lt;p&gt;📄 &lt;a href=&#34;https://scholarspace.manoa.hawaii.edu/items/6ceaf264-3271-4551-8d1f-92678c917892&#34;&gt;Full paper&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Process mining techniques are being used to explore healthcare processes based upon information recorded about individual patients. In most cases, this information consists of clinical codes and dates: codes used to classify care events; dates indicating when these events occurred. These codes will not, in general, form part of the contemporaneous care record used by clinicians. At the same time, that record contains other, more detailed information about the care delivered. This paper explains how the provenance of coded information can affect its interpretation and how information from a care record can be used to stratify patient populations and provide context for process mining. The proposed methodology is illustrated through application to real-world data in an area of particular concern: the treatment and care of patients with colon cancer.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Investigating an Ontology-Informed Approach to Event Log Generation in Healthcare</title>
-      <link>https://www.owendwyer.co.uk/publications/2023-10-icpm/</link>
+      <link>http://localhost:1313/publications/2023-10-icpm/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.owendwyer.co.uk/publications/2023-10-icpm/</guid>
-      <description>👥 Owen P. Dwyer, Lara Chammas, Emanuel Sallinger, Jim Davies
-📕 6th International Workshop on Process-Oriented Data Science for Healthcare @ ICPM 2023
-📄 Full paper - available soon
-🏅 Best Student Paper
-Process mining methods have the potential to reveal useful patterns in hospital data and provide insights into patterns of treatment, but healthcare has proven an exceptionally challenging domain due to the significant heterogeneity of possible events and the diversity of individual patients.</description>
+      <guid>http://localhost:1313/publications/2023-10-icpm/</guid>
+      <description>&lt;p&gt;👥 Owen P. Dwyer, Lara Chammas, Emanuel Sallinger, Jim Davies&lt;/p&gt;&#xA;&lt;p&gt;📕 6th International Workshop on Process-Oriented Data Science for Healthcare @ ICPM 2023&lt;/p&gt;&#xA;&lt;p&gt;📄 &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-031-56107-8_18&#34;&gt;Full paper&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🏅 Best Student Paper&lt;/p&gt;&#xA;&lt;p&gt;Process mining methods have the potential to reveal useful patterns in hospital data and provide insights into patterns of treatment, but healthcare has proven an exceptionally challenging domain due to the significant heterogeneity of possible events and the diversity of individual patients. When studying a patient’s pathway, their history might contain hundreds of events unrelated to the disease of interest; determining which to include or exclude in an event log is difficult, and highly dependent on the situation. Typically, researchers only include the most common or correlated events (risking missing rare but significant exceptions), or hand-curate a list of events (slow, and difficult, especially where there might be thousands of possible events). We discuss an alternative approach that uses logical reasoning over ontologies to deduce plausibly related events, which might have implications in terms of time savings, the facilitation of reproducible research, and the enabling of comparisons across datasets and healthcare systems. We investigate the practical feasibility of such an approach by demonstrating it on real data, finding that the discovered processes approximate those produced through established approaches, with some caveats. The approach is a promising way to support conversations with domain experts and expedite human processes, and highlights the potential of structured domain knowledge to inform and enhance the event log generation process.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Reasoning over Health Records with Vadalog: a Rule-based Approach to Patient Pathways</title>
-      <link>https://www.owendwyer.co.uk/publications/2023-09-ruleml/</link>
-      <pubDate>Tue, 19 Sep 2023 21:13:14 -0500</pubDate>
-      
-      <guid>https://www.owendwyer.co.uk/publications/2023-09-ruleml/</guid>
-      <description>👥 Owen P. Dwyer, Teodoro Baldazzi, Jim Davies, Emanuel Sallinger and Adriano Vlad
-📕 7th International Rule Challenge @ RuleML+RR 2023
-📄 Full paper
-🏅 Best Rule Challenge Paper
-In recent years, the scale of biomedical and healthcare data has grown exponentially, leading to companies building large enterprise knowledge graphs as well as scalable and intelligent processing systems to exploit them. In this high-stakes domain, the transparency of data-driven processes is paramount to ensure high levels of trustworthiness and accountability for patient safety.</description>
+      <link>http://localhost:1313/publications/2023-09-ruleml/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-09-ruleml/</guid>
+      <description>&lt;p&gt;👥 Owen P. Dwyer, Teodoro Baldazzi, Jim Davies, Emanuel Sallinger and Adriano Vlad&lt;/p&gt;&#xA;&lt;p&gt;📕 17th International Rule Challenge @ RuleML+RR 2023&lt;/p&gt;&#xA;&lt;p&gt;📄 &lt;a href=&#34;https://ceur-ws.org/Vol-3485/paper9111.pdf&#34;&gt;Full paper&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🏅 Best Rule Challenge Paper&lt;/p&gt;&#xA;&lt;p&gt;In recent years, the scale of biomedical and healthcare data has grown exponentially, leading to companies building large enterprise knowledge graphs as well as scalable and intelligent processing systems to exploit them. In this high-stakes domain, the transparency of data-driven processes is paramount to ensure high levels of trustworthiness and accountability for patient safety. This requirement has acted as catalyst for a rising interest in deductive approaches that use expressive declarative languages to represent domain knowledge, as well as powerful logic-based reasoning systems for the highly efficient and explainable deduction of new information. In this work, we explore the topic of patient pathways. This perspective on health records is  a key concept in modern healthcare, but is not naturally evident from raw data, requiring data modelling decisions and domain expertise to explore in depth. We explore the utility of declarative approaches in deriving pathways for groups of patients from  health records, and consider how these rules can aid in the intuitive interpretation and explanation of healthcare data. We employ Vadalog, a highly expressive language for knowledge representation and reasoning, to formulate tasks as logical rules, and use our state-of-the-art reasoning framework to achieve full transparency and explainability throughout the inference process, demonstrating these principles on a publically available dataset. This research strives to bridge the gap between the biomedical domain and ontological reasoning methodologies, paving the way for the future use of declarative approaches to facilitate population studies, precision medicine, and more transparent and explainable approaches to health data science.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Reasoning over Health Records with Vadalog: a Rule-based Approach to Patient Pathways</title>
-      <link>https://www.owendwyer.co.uk/publications/2024-01-hicss/</link>
-      <pubDate>Tue, 19 Sep 2023 21:13:14 -0500</pubDate>
-      
-      <guid>https://www.owendwyer.co.uk/publications/2024-01-hicss/</guid>
-      <description>👥 Owen P. Dwyer, Teodoro Baldazzi, Jim Davies, Emanuel Sallinger and Adriano Vlad
-📕 7th International Rule Challenge @ RuleML+RR 2023
-📄 Full paper
-🏅 Best Rule Challenge Paper
-In recent years, the scale of biomedical and healthcare data has grown exponentially, leading to companies building large enterprise knowledge graphs as well as scalable and intelligent processing systems to exploit them. In this high-stakes domain, the transparency of data-driven processes is paramount to ensure high levels of trustworthiness and accountability for patient safety.</description>
-    </item>
-    
     <item>
       <title>Profiling IoT-based Botnet Traffic using DNS</title>
-      <link>https://www.owendwyer.co.uk/publications/2019-12-botnets/</link>
+      <link>http://localhost:1313/publications/2019-12-botnets/</link>
       <pubDate>Mon, 09 Dec 2019 21:13:14 -0500</pubDate>
-      
-      <guid>https://www.owendwyer.co.uk/publications/2019-12-botnets/</guid>
-      <description>👥 Owen P. Dwyer, Angelos K. Marnerides, Vasileios Giotsas, Troy Mursch
-📕 GLOBECOM 2019
-📄 Full paper
-Internet-wide security and resilience have traditionally been subject to large-scale DDoS attacks initiated by various types of botnets. Since the Mirai outbreak in 2016 myriads of Mirai-alike IoT-based botnets have emerged. Such botnets rely on Mirai’s base malware code and they infiltrate vulnerable IoT devices on an Internet-wide scale such as to instrument them to perform large-scale attacks such as DDoS.</description>
+      <guid>http://localhost:1313/publications/2019-12-botnets/</guid>
+      <description>&lt;p&gt;👥 Owen P. Dwyer, Angelos K. Marnerides, Vasileios Giotsas, Troy Mursch&lt;/p&gt;&#xA;&lt;p&gt;📕 IEEE GLOBECOM 2019&lt;/p&gt;&#xA;&lt;p&gt;📄 &lt;a href=&#34;http://www.research.lancs.ac.uk/portal/en/publications/profiling-iotbased-botnet-traffic-using-dns%28b0098859-7762-473f-8f76-e8fe7ab27ac8%29.html&#34;&gt;Full paper&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Internet-wide security and resilience have traditionally been subject to large-scale DDoS attacks initiated by various types of botnets. Since the Mirai outbreak in 2016 myriads of Mirai-alike IoT-based botnets have emerged. Such botnets rely on Mirai’s base malware code and they infiltrate vulnerable IoT devices on an Internet-wide scale such as to instrument them to perform large-scale attacks such as DDoS. As recently shown, DDoS attacks triggered by Mirai-alike IoT-based botnets go far beyond traditional pre-2016 DDoS attacks since they have a much higher amplification and their propagation is far more aggressive. Thus, it is of crucial importance to tailor botnet detection schemes accordingly. This work provides a novel DNS-based profiling scheme over real datasets of Mirai-alike botnet activity captured on honeypots that are globally distributed. We firstly discuss features used in profiling botnets in the past and indicate how profiling IoT-based botnets in particular can be improved by leveraging DNS information out of a single DNS record. We further conduct an evaluation of our developed feature set over various Machine Learning (ML) classifiers and demonstrate the applicability of our scheme. Our resulted outputs indicate that the proposed feature set can significantly reduce botnet detection time whilst simultaneously maintaining high levels of accuracy of 99% on average under the random forest formulation.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
