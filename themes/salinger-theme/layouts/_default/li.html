@@ -9,7 +9,7 @@
     <h6 class="li-meta">
       {{$myFormat := "January 2006"}}
       {{with .Site.Params.DateFormat}} {{$myFormat = .}} {{end}}
-      {{ time.Format $myFormat .Date}}{{with .Params.Categories}}
+      {{ time.Format $myFormat .Date}}{{with .Params.Venue}}
 
       {{$n := len .}} //
       <span class="li-categories">

@@ -4,12 +4,13 @@ author: "Chammas et al"
 date: 2025-05-29T00:00:00-00:00
 categories: ["journal paper"]
 tags: []
+venue: ["Journal of Intelligent Information Systems"]
 ---
 
 
 👥 Owen P Dwyer, Lara Chammas, Emanuel Sallinger, Jim Davies
 
-📕 57th Hawaii International Conference on System Sciences
+📕 Journal of Intelligent Information Systems
 
 📄 [Full paper](https://link.springer.com/article/10.1007/s10844-025-00942-8)
 

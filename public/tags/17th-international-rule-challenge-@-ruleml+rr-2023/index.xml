@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>17th International Rule Challenge @ RuleML&#43;RR 2023 on Owen Dwyer</title>
+    <link>http://localhost:1313/tags/17th-international-rule-challenge-@-ruleml&#43;rr-2023/</link>
+    <description>Recent content in 17th International Rule Challenge @ RuleML&#43;RR 2023 on Owen Dwyer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/17th-international-rule-challenge-@-ruleml+rr-2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reasoning over Health Records with Vadalog: a Rule-based Approach to Patient Pathways</title>
+      <link>http://localhost:1313/publications/2023-09-ruleml/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2023-09-ruleml/</guid>
+      <description>&lt;p&gt;👥 Owen P. Dwyer, Teodoro Baldazzi, Jim Davies, Emanuel Sallinger and Adriano Vlad&lt;/p&gt;&#xA;&lt;p&gt;📕 17th International Rule Challenge @ RuleML+RR 2023&lt;/p&gt;&#xA;&lt;p&gt;📄 &lt;a href=&#34;https://ceur-ws.org/Vol-3485/paper9111.pdf&#34;&gt;Full paper&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🏅 Best Rule Challenge Paper&lt;/p&gt;&#xA;&lt;p&gt;In recent years, the scale of biomedical and healthcare data has grown exponentially, leading to companies building large enterprise knowledge graphs as well as scalable and intelligent processing systems to exploit them. In this high-stakes domain, the transparency of data-driven processes is paramount to ensure high levels of trustworthiness and accountability for patient safety. This requirement has acted as catalyst for a rising interest in deductive approaches that use expressive declarative languages to represent domain knowledge, as well as powerful logic-based reasoning systems for the highly efficient and explainable deduction of new information. In this work, we explore the topic of patient pathways. This perspective on health records is  a key concept in modern healthcare, but is not naturally evident from raw data, requiring data modelling decisions and domain expertise to explore in depth. We explore the utility of declarative approaches in deriving pathways for groups of patients from  health records, and consider how these rules can aid in the intuitive interpretation and explanation of healthcare data. We employ Vadalog, a highly expressive language for knowledge representation and reasoning, to formulate tasks as logical rules, and use our state-of-the-art reasoning framework to achieve full transparency and explainability throughout the inference process, demonstrating these principles on a publically available dataset. This research strives to bridge the gap between the biomedical domain and ontological reasoning methodologies, paving the way for the future use of declarative approaches to facilitate population studies, precision medicine, and more transparent and explainable approaches to health data science.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

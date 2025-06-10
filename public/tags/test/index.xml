@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Owen Dwyer</title>
+    <link>http://localhost:1313/tags/test/</link>
+    <description>Recent content in Test on Owen Dwyer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using ontologies to facilitate healthcare process mining and analysis</title>
+      <link>http://localhost:1313/publications/2025-05-jiis/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/2025-05-jiis/</guid>
+      <description>&lt;p&gt;👥 Owen P Dwyer, Lara Chammas, Emanuel Sallinger, Jim Davies&lt;/p&gt;&#xA;&lt;p&gt;📕 57th Hawaii International Conference on System Sciences&lt;/p&gt;&#xA;&lt;p&gt;📄 &lt;a href=&#34;https://link.springer.com/article/10.1007/s10844-025-00942-8&#34;&gt;Full paper&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Healthcare organisations collect detailed data on the care that they deliver. This data can be used to identify issues, including deviations from care standards and recommendations, and opportunities for improvement; it can be used also to support the development of new technologies and treatments. The volume and complexity of the data means that automated techniques such as process mining are needed to support the extraction and analysis of relevant information. This paper explains how the ontological information held in clinical terminologies can be used to facilitate process extraction and analysis, by connecting and aggregating clinical events through the classification of diagnoses made and treatments performed. The approach is demonstrated through application to data collected on care delivered to patients with cancer in a major hospital. The results are compared with those obtained from benchmark datasets using approaches in which connections and aggregations are proposed and curated by domain experts. This comparison highlights the potential, and the shortcomings, of ontology-based extraction and analysis in healthcare process mining.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

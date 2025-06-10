@@ -3,7 +3,7 @@ title: "Reasoning over Health Records with Vadalog: a Rule-based Approach to Pat
 author: "Dwyer et al"
 date: 2023-09-19T00:00:00-00:00
 categories: ["conference paper"]
-tags: []
+venue: ["RuleML+RR 2023"]
 ---
 
 

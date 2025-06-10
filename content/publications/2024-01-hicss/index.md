@@ -4,6 +4,8 @@ author: "Chammas et al"
 date: 2024-01-03T00:00:00-00:00
 categories: ["conference paper"]
 tags: []
+venue: ["HICSS 2024"]
+
 ---
 
 
